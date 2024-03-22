@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="130" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -91,10 +91,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+-->
 
-###
-
-<img src="https://raw.githubusercontent.com/Angel291985/Angel291985/output/snake.svg" alt="Snake animation" />
-
-###
