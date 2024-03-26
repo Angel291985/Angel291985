@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">💻 I write clean and efficient code.<br>🌐 I’m fascinated by web development and enjoy building responsive websites.<br>🚀 I contribute to open-source projects.<br>📚 I’m constantly learning and improving my skills.<br>✨ Creating bugs since 2022<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">💻 I write clean and efficient code.<br>🌐 I’m fascinated by web development and enjoy building responsive websites.<br>🚀 I contribute to open-source projects.<br>📚 I’m constantly learning and improving my skills.<br>✨ Creating bugs since 2021<br>🎯 Goals: Creating life-changing projects<br>🎲 Fun fact: I like to read books and learn more about solving world problems.</p>
 
 ###
 
